@@ -30,19 +30,16 @@ async function run() {
 https://i.ibb.co/jTfZbyn/babySit.png
 https://i.ibb.co/FxxqjLX/bird-House.png
 
-https://i.ibb.co/d22Nc2v/clean-Water.png
 https://i.ibb.co/tcKVsXj/clearn-Park.png
 https://i.ibb.co/mHPVN43/cloth-Swap.png
 https://i.ibb.co/J5Zh4NX/drive-Safety.png
 https://i.ibb.co/FxYL62v/extra-Volunteer.png
-https://i.ibb.co/MV8ngtR/food-Charity.png
-https://i.ibb.co/9V4F3Ks/good-Education.png
+
+
 https://i.ibb.co/WGyC5qd/ITHelp.png
 https://i.ibb.co/nchrRk0/library-Books.png
 https://i.ibb.co/7r1XGV2/music-Lessons.png
-https://i.ibb.co/9ZXYXX6/newBooks.png
-https://i.ibb.co/9TSPbDW/refuse-Shelter.png
-https://i.ibb.co/5jkmj3b/river-Clean.png
+
 https://i.ibb.co/zXm31vm/school-Suffiles.png
 https://i.ibb.co/6grmNcF/study-Group.png
 https://i.ibb.co/GVPKNqR/stuffed-Animals.png
